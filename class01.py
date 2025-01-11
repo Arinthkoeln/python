@@ -25,6 +25,6 @@ print(type(value))"""
 #output ="{} is {} years old".format("Arin", 30)
 output ="{0} is {1} years old. she is a {2}. {0} is a independent {3}." 
 print(output.format("Arin", 30 , "Devops Engineer", "women"))
-
+#Arin's Work
 
 
